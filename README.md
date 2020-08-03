@@ -1,4 +1,3 @@
-# neutrollized.github.io
 I'm going to try and learn ReactJS and build out [my blog](https://neutrollized.github.io/react-blog) as I go along
 
 ## How to Deploy ReactJS app into your GitHub Pages
