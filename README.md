@@ -11,6 +11,7 @@ I'm going to try and learn ReactJS and build out [my blog](https://neutrollized.
 - change to your React app directory
 - `npm install gh-pages --save-dev`
 - edit `package.json` to add:
+
 ```
 "homepage": "http://neutrollized.github.com/react-blog",
 ```
